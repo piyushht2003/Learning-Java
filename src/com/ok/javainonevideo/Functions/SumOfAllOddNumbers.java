@@ -1,4 +1,4 @@
-package com.ok.javainonevideo.datatypes;
+package com.ok.javainonevideo.Functions;
 
 import java.util.Scanner;
 
